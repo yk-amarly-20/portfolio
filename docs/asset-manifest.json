@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d4321bb3.chunk.css",
-    "main.js": "/portfolio/static/js/main.60d6ae5d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.60d6ae5d.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c89991be.chunk.css",
+    "main.js": "/portfolio/static/js/main.2ebe0f55.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2ebe0f55.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c915cb8f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c915cb8f.js.map",
     "static/js/2.bc7d9cd3.chunk.js": "/portfolio/static/js/2.bc7d9cd3.chunk.js",
     "static/js/2.bc7d9cd3.chunk.js.map": "/portfolio/static/js/2.bc7d9cd3.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.de27a16a990e9539592543ed05d3398e.js": "/portfolio/precache-manifest.de27a16a990e9539592543ed05d3398e.js",
+    "precache-manifest.26b2ce62b95b0954e4070313275a64bd.js": "/portfolio/precache-manifest.26b2ce62b95b0954e4070313275a64bd.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.d4321bb3.chunk.css.map": "/portfolio/static/css/main.d4321bb3.chunk.css.map",
+    "static/css/main.c89991be.chunk.css.map": "/portfolio/static/css/main.c89991be.chunk.css.map",
     "static/js/2.bc7d9cd3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bc7d9cd3.chunk.js.LICENSE.txt",
     "static/media/R.png": "/portfolio/static/media/R.dfaab9a0.png",
     "static/media/Rist.png": "/portfolio/static/media/Rist.0fab5af5.png",
@@ -18,14 +18,14 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.a935cbd9.png",
     "static/media/kojikoji.png": "/portfolio/static/media/kojikoji.89db866d.png",
     "static/media/kotlin.png": "/portfolio/static/media/kotlin.bfb00dff.png",
+    "static/media/index.css": "/portfolio/static/media/pagetop.985b8758.jpg",
     "static/media/python.png": "/portfolio/static/media/python.2aae2ae0.png",
-    "static/media/scala.png": "/portfolio/static/media/scala.fd5fe7d0.png",
-    "static/media/index.css": "/portfolio/static/media/top.2994e3da.jpg"
+    "static/media/scala.png": "/portfolio/static/media/scala.fd5fe7d0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c915cb8f.js",
     "static/js/2.bc7d9cd3.chunk.js",
-    "static/css/main.d4321bb3.chunk.css",
-    "static/js/main.60d6ae5d.chunk.js"
+    "static/css/main.c89991be.chunk.css",
+    "static/js/main.2ebe0f55.chunk.js"
   ]
 }

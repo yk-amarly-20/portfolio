@@ -9,8 +9,8 @@ import { Card } from '@material-ui/core';
 
 const useStyles = makeStyles(theme => ({
   title: {
-    marginTop: '50px', 
-    textAlign: 'center'
+    marginTop: '100px', 
+    textAlign: 'center', 
   }, 
   subtitle: {
     marginTop: '30px', 
@@ -92,7 +92,7 @@ export default function Works() {
           <Grid item>
             <section class="card-works">
               <div class="card-content">
-                <h1 class="card-title">Some Web Apps By Python</h1>
+                <h1 class="card-title">Some Web Apps with Python</h1>
                 <p class="card-text">
                   ・ I made some Web Apps(TODO App, domestic account Apps, easy blog) by Flask, Django. <br />
                 </p>

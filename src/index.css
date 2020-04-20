@@ -18,12 +18,12 @@ code {
     rgba(0, 0, 0, 0.7), 
     rgba(72, 15, 144, 0.4) 100%
   ), 
-  url("./components/Images/top.jpg");
+  url("./components/Images/pagetop.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center center;
   width: 100%;
-  height: 80vh;
+  height: 100vh;
 }
 
 #top-view header {
@@ -81,6 +81,10 @@ code {
   text-align: center;
   padding: 14px 16px;
   transition: 2s;
+}
+
+#top-view .nav li .nav-text {
+  color: #ffffff;
 }
 
 .card {
@@ -158,10 +162,12 @@ code {
   color: #333;
   font-family: fontawesome;
   content: "\f09b";
-  margin-right: .5em;
+  margin-left: 50px;
+  margin-right: 20px;
   display: inline-block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 .twitter-icon::before {
@@ -173,4 +179,9 @@ code {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.qiita-icon {
+  margin-right: 10px;
+}
+
 

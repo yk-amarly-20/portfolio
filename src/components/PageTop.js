@@ -46,9 +46,9 @@ const NavBar = () => {
   return (
     <header style={scrollStyle}>
       <ul className="nav">
-        <li><Link to="/">About</Link></li>
-        <li><Link to="/Skills">Skills</Link></li>
-        <li><Link to="/Works">Works</Link></li>
+        <li><Link to="/" className="nav-text">About</Link></li>
+        <li><Link to="/Skills" className="nav-text">Skills</Link></li>
+        <li><Link to="/Works" className="nav-text">Works</Link></li>
       </ul>
     </header>
   );
