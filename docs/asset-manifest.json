@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7b717c3d.chunk.css",
+    "main.js": "./static/js/main.0b2568b9.chunk.js",
+    "main.js.map": "./static/js/main.0b2568b9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e0cc3392.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e0cc3392.js.map",
+    "static/js/2.ce09d3fb.chunk.js": "./static/js/2.ce09d3fb.chunk.js",
+    "static/js/2.ce09d3fb.chunk.js.map": "./static/js/2.ce09d3fb.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d7640e749ec51b12c7bb133e804931b6.js": "./precache-manifest.d7640e749ec51b12c7bb133e804931b6.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.7b717c3d.chunk.css.map": "./static/css/main.7b717c3d.chunk.css.map",
+    "static/js/2.ce09d3fb.chunk.js.LICENSE.txt": "./static/js/2.ce09d3fb.chunk.js.LICENSE.txt",
+    "static/media/R.png": "./static/media/R.dfaab9a0.png",
+    "static/media/Rist.png": "./static/media/Rist.0fab5af5.png",
+    "static/media/Sinops.jpg": "./static/media/Sinops.b910ecf0.jpg",
+    "static/media/javascript.png": "./static/media/javascript.a935cbd9.png",
+    "static/media/kojikoji.png": "./static/media/kojikoji.89db866d.png",
+    "static/media/kotlin.png": "./static/media/kotlin.bfb00dff.png",
+    "static/media/python.png": "./static/media/python.2aae2ae0.png",
+    "static/media/scala.png": "./static/media/scala.fd5fe7d0.png",
+    "static/media/index.css": "./static/media/top.2994e3da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0cc3392.js",
+    "static/js/2.ce09d3fb.chunk.js",
+    "static/css/main.7b717c3d.chunk.css",
+    "static/js/main.0b2568b9.chunk.js"
+  ]
+}
