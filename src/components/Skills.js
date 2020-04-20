@@ -110,6 +110,7 @@ export default function Skills() {
                 ・ Kubernetes <br />
                 ・ SQL <br />
                 ・ GCP <br />
+                etc... <br />
               </p>
             </div>
           </section>

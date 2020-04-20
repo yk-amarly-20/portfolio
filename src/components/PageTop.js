@@ -64,7 +64,7 @@ const Top = () => {
     <div className="card-parent" id="top-view">
       <div className="card-children">
         <div className="my-name">
-          Yuto Kojima
+          Yuto Kojima's Portfolio
         </div>
         <div className="job">
           android App and Machine Learning Engineer

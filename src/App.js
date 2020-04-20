@@ -10,7 +10,7 @@ import PageTop from './components/PageTop'
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <header>
           <PageTop />
         </header>
