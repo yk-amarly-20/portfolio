@@ -18,7 +18,7 @@
     "react-router-native": "^5.1.2",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://yk-amary-20.github.io/portfolio/",
+  "homepage": "https://yk-amarly-20.github.io/portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
