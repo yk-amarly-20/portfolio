@@ -42,7 +42,7 @@ export default function Works() {
           justify="center">
           <Grid item>
             <section class="card-experience">
-              <img class="card-image-other" src={rist} />
+              <img class="card-image-rist" src={rist} />
               <div class="card-content">
                 <h1 class="card-title">Rist</h1>
                 <h3 class="span">2019/08~now</h3>
@@ -56,7 +56,7 @@ export default function Works() {
           </Grid>
           <Grid item>
             <section class="card-experience">
-              <img class="card-image-other" src={sinops} />
+              <img class="card-image-sinops" src={sinops} />
               <div class="card-content">
                 <h1 class="card-title">Sinops</h1>
                 <h3 class="span">2019/10~now</h3>

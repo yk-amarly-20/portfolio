@@ -93,7 +93,7 @@ code {
   border-radius: 5px;
   box-shadow: 0 2px 5px #ccc;
   text-align: center;
-  height: 250px;
+  height: 320px;
   margin: 10 10 10 10;
 }
 .card-image {
@@ -112,11 +112,18 @@ code {
   text-align: center;
   color: #333;
 }
+.card-subtitle {
+  font-size: 15px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #333;
+}
 .card-text {
   color: #777;
   font-size: 14px;
   line-height: 1.5;
 }
+
 .card-link {
   text-align: center;
   border-top: 1px solid #eee;
@@ -130,7 +137,7 @@ code {
 .card-link a:hover {
   color: #0090aa;
 }
-.card-image-other {
+.card-image-sinops {
   border-radius: 5px 5px 0 0;
   max-width: 100%;
   width: 200px;
@@ -138,6 +145,13 @@ code {
   margin: 0 auto;
 }
 
+.card-image-rist {
+  border-radius: 5px 5px 0 0;
+  max-width: 100%;
+  width: 200px;
+  height: 80px;
+  margin-top: 40px;
+}
 .card-experience {
   width: 350px;
   background: #fff;

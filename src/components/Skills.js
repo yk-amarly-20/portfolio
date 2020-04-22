@@ -40,7 +40,11 @@ export default function Skills() {
               <h1 class="card-title">Python</h1>
               <p class="card-text">
                 ・ machine learning and data analysis. <br />
-                ・ easy application with Flask or Django.
+                ・ easy application with Flask or Django. <br />
+              </p>
+              <h3 class="card-subtitle">Framework</h3>
+              <p class="card-text">
+                Keras, Tensorflow, PyTorch, Flask, Django
               </p>
             </div>
           </section>
@@ -52,6 +56,10 @@ export default function Skills() {
               <h1 class="card-title">Kotlin</h1>
               <p class="card-text">
                 ・ development of Android or Web App. <br />
+              </p>
+              <h3 class="card-subtitle">Framework</h3>
+              <p class="card-text">
+                Android Studio, Spring
               </p>
             </div>
           </section>
@@ -95,6 +103,10 @@ export default function Skills() {
               <h1 class="card-title">JavaScript</h1>
               <p class="card-text">
                 ・ development of Web App.
+              </p>
+              <h3 class="card-subtitle">Framework</h3>
+              <p class="card-text">
+                React
               </p>
             </div>
           </section>
