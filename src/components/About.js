@@ -66,11 +66,12 @@ export default function About() {
           <br /><br />
         </div>
       </Grid>
-      <Grid xs={12} item>
+      {/*<Grid xs={12} item>
         <div className={classes.image}>
           <img src={myFace} alt="me" />
         </div>
       </Grid>
+  */}
       <Grid xs={12} item>
         <div className={classes.topics}>
           <div id="icon" style={{ paddingTop: "20px" }}>
