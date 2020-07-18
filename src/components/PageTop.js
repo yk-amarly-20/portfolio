@@ -67,7 +67,7 @@ const Top = () => {
           Yuto Kojima's Portfolio
         </div>
         <div className="job">
-          Android App and Machine Learning Engineer
+          Web App and Machine Learning Engineer
         </div>
       </div>
     </div>
