@@ -66,14 +66,27 @@ export default function Works() {
             </section>
           </Grid>
           <Grid item>
-            <section class="card-experiences">
+            <section class="card-experience">
               <div class="card-content">
                 <h1 class="card-title">Rakuten, Inc.</h1>
                 <h3 class="span">2020/09/01 ~ 2020/09/11</h3>
                 <p class="card-text">
-                   ・ Hackathon of Web Apps.
-                   ・ I developed server-side.
-                   ・ Our team got the second grades of seven teams.
+                   ・ Hackathon of Web Apps. <br />
+                   ・ I developed server-side. <br />
+                   ・ Our team got the second grades of seven teams. <br />
+                </p>
+              </div>
+            </section>
+          </Grid>
+
+          <Grid item >
+            <section class="card-experience">
+              <div class="card-content">
+                <h1 class="card-title">VOYAGE GROUP, Inc.</h1>
+                <h3 class="span">2020/09/16 ~ 2020/09/18</h3>
+                <p class="card-text">
+                  ・ adventure internship. <br/>
+                  ・ machine learning's application for advertising. <br />
                 </p>
               </div>
             </section>
