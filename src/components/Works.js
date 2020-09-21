@@ -9,11 +9,11 @@ import { Card } from '@material-ui/core';
 
 const useStyles = makeStyles(theme => ({
   title: {
-    marginTop: '100px', 
-    textAlign: 'center', 
-  }, 
+    marginTop: '100px',
+    textAlign: 'center',
+  },
   subtitle: {
-    marginTop: '30px', 
+    marginTop: '30px',
     textAlign: 'center'
   }
 }))
@@ -21,21 +21,21 @@ const useStyles = makeStyles(theme => ({
 export default function Works() {
   const classes = useStyles()
   return (
-    <Grid 
-      container 
+    <Grid
+      container
       direction="column"
       justify="center"
     >
       <Grid
         container
-        item 
+        item
         direction="column"
         justify="center"
       >
         <Grid item>
           <h1 className={classes.title}>Experience</h1>
         </Grid>
-        <Grid 
+        <Grid
           item
           container
           direction="row"
@@ -48,7 +48,7 @@ export default function Works() {
                 <p class="card-text">
                   ・ working as a machine learning engineer. <br />
                   ・ assign for data analysing task. <br />
-                  ・ implementation of server-side for machine learning Apps. <br /> 
+                  ・ implementation of server-side for machine learning Apps. <br />
                 </p>
               </div>
             </section>
@@ -60,7 +60,20 @@ export default function Works() {
                 <h3 class="span">2019/10~now</h3>
                 <p class="card-text">
                   ・ some SQL Apps. <br />
-                  ・ development of business Apps. <br /> 
+                  ・ development of business Apps. <br />
+                </p>
+              </div>
+            </section>
+          </Grid>
+          <Grid item>
+            <section class="card-experiences">
+              <div class="card-content">
+                <h1 class="card-title">Rakuten, Inc.</h1>
+                <h3 class="span">2020/09/01 ~ 2020/09/11</h3>
+                <p class="card-text">
+                   ・ Hackathon of Web Apps.
+                   ・ I developed server-side.
+                   ・ Our team got the second grades of seven teams.
                 </p>
               </div>
             </section>
@@ -69,8 +82,8 @@ export default function Works() {
         <Grid item>
           <h1 className={classes.title}>Works</h1>
         </Grid>
-        <Grid 
-          item 
+        <Grid
+          item
           container
           direction="row"
           justify="center"
