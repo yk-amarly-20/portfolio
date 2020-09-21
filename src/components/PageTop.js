@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 // ナビゲーションバーの実装
 const NavBar = () => {
   const [colorGradient, setColorGradient] = useState(0);
-  
+
   /*
   スクロールの現在位置を取得
   **/
@@ -67,7 +67,7 @@ const Top = () => {
           Yuto Kojima's Portfolio
         </div>
         <div className="job">
-          Web App and Machine Learning Engineer
+          Software Engineer (updated: 2020/09/21)
         </div>
       </div>
     </div>
