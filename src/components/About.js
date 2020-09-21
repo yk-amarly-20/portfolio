@@ -38,20 +38,20 @@ export default function About() {
         <h1 className={classes.title} id="About">ABOUT</h1>
       </Grid>
       <Grid xs={12} item>
-        
-          
-            
-        
+
+
+
+
         <div className={classes.myText}>
           Welcome to my portfolio. My name is Yuto Kojima.
           <br /><br />
-          I am Kyoto University student, Faculty of Science. 
+          I am Kyoto University student, Faculty of Science.
           <br /><br />
           I belong to Department of Mathematics, and majoring probability theory.
           <br /><br />
           I am working at Rist as a machine learning engineer with Python.
           <br /><br />
-          I love to write Scala and Kotlin, and develop Android or Web App.
+          I love to write Scala and Kotlin, and develop Web Apps and tools.
           <br /><br />
           I like to grow flowers, listen to music, and play tennis.
         </div>
