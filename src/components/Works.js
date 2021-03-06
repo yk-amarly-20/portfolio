@@ -57,7 +57,7 @@ export default function Works() {
             <section class="card-experience">
               <div class="card-content">
                 <h1 class="card-title">sinops Inc.</h1>
-                <h3 class="span">2019/10~now</h3>
+                <h3 class="span">2019/10~2020/08</h3>
                 <p class="card-text">
                   ・ some SQL Apps. <br />
                   ・ development of business Apps. <br />
@@ -108,7 +108,7 @@ export default function Works() {
                 <p class="card-text">
                   ・ Python library to calculate present value of insurance. <br />
                   ・ I implied algorithms of insurance. <br />
-                  ・ document => <a href="https://github.com/yk-amarly-20/Amaryllis">https://github.com/yk-amarly-20/Amaryllis</a> <br />
+                  ・ document → <a href="https://github.com/yk-amarly-20/Amaryllis">https://github.com/yk-amarly-20/Amaryllis</a> <br />
                 </p>
               </div>
             </section>
