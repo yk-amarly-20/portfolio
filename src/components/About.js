@@ -51,7 +51,7 @@ export default function About() {
           <br /><br />
           I am working at Rist as a machine learning engineer with Python.
           <br /><br />
-          I love to write Scala and Kotlin, and develop Web Apps and tools.
+          I love to write Rust and Kotlin, and develop Web Apps and tools.
           <br /><br />
           I like to grow flowers, listen to music, and play tennis.
         </div>
@@ -60,7 +60,7 @@ export default function About() {
         <div className={classes.myText}>
           京都大学 理学部 数理科学系 確率論専攻
            <br /><br />
-          機械学習エンジニア(株式会社Rist), 個人アプリ開発(Kotlin, Scala)
+          機械学習エンジニア(株式会社Rist), 個人アプリ開発(Kotlin, Rust)
           <br /><br />
           趣味 : 園芸、J-POPなどの音楽、テニス
           <br /><br />

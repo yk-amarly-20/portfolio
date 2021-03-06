@@ -64,10 +64,13 @@ const Top = () => {
     <div className="card-parent" id="top-view">
       <div className="card-children">
         <div className="my-name">
-          Yuto Kojima's Portfolio
+          <span className="neon_1">Y</span><span className="neon_2">u</span><span className="neon_1">t</span>
+          <span className="neon_3">o</span> <span className="neon_2">K</span><span>o</span><span className="neon_3">j</span><span>i</span>
+          <span className="neon_2">m</span><span>a</span ><span className="neon_1">'</span><span className="neon_2">s</span> <span className="neon_3">p</span><span>o</span><span>r</span>
+          <span className="neon_1">t</span><span>f</span><span className="neon_1">o</span><span className="neon_3">l</span><span className="neon_2">i</span><span>o</span>
         </div>
         <div className="job">
-          Software Engineer (updated: 2020/09/21)
+          Software Engineer (last updated: 2020/09/21)
         </div>
       </div>
     </div>

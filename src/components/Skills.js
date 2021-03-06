@@ -6,12 +6,13 @@ import Grid from '@material-ui/core/Grid';
 import python from './Images/python.png'
 import kotlin from './Images/kotlin.png'
 import R from './Images/R.png'
-import scala from './Images/scala.png'
+import rust from './Images/rust.png'
+import typescript from './Images/typescript.png'
 import javascript from './Images/javascript.png'
 
 const useStyles = makeStyles(theme => ({
   title: {
-    marginTop: '50px', 
+    marginTop: '50px',
     textAlign: 'center'
   }
 }));
@@ -76,7 +77,7 @@ export default function Skills() {
           </section>
         </Grid>
       </Grid>
-    
+
       <Grid
         item
         container
@@ -85,24 +86,26 @@ export default function Skills() {
       >
         <Grid item>
           <section class="card">
-            <img class="card-image" src={scala} />
+            <img class="card-image" src={rust} />
             <div class="card-content">
-              <h1 class="card-title">Scala</h1>
+              <h1 class="card-title">Rust</h1>
               <p class="card-text">
-                ・ development of Web App <br />(I am just studying now).
+                ・ development of Some App <br />
+                ・ some tools.
               </p>
             </div>
           </section>
         </Grid>
-      
-        
+
+
         <Grid item>
         <section class="card">
             <img class="card-image" src={javascript} />
             <div class="card-content">
               <h1 class="card-title">JavaScript</h1>
               <p class="card-text">
-                ・ development of Web App.
+                ・ development of Web App. <br></br>
+                ・ This site.
               </p>
               <h3 class="card-subtitle">Framework</h3>
               <p class="card-text">
@@ -111,23 +114,46 @@ export default function Skills() {
             </div>
           </section>
         </Grid>
-        <Grid item>
+        <Grid item >
           <section class="card">
+            <img class="card-image" src={typescript} />
             <div class="card-content">
-              <h1 class="card-title">the Others</h1>
+              <h1 class="card-title"> TypeScript </h1>
               <p class="card-text">
-                ・ C/C++ : AtCoder, some machine learning models <br />
-                ・ Git <br />
-                ・ Docker <br />
-                ・ Kubernetes <br />
-                ・ SQL <br />
-                ・ GCP <br />
-                etc... <br />
+                ・development of Web App. <br/>
+                ・my tech blog site.
               </p>
+              <h3 class="card-subtitle"> Framework </h3>
+              <p class="card-text"> React, Next.js </p>
             </div>
           </section>
         </Grid>
       </Grid>
+      < Grid
+        item
+        container
+        direction = "row"
+        justify="center"
+      >
+        <Grid item>
+          <section class = "card" >
+            <div class = "card-content" >
+              <h1 class="card-title" > the Others </h1>
+              <p class="card-text" >
+                ・C / C++: AtCoder, some machine learning models <br />
+                ・Git < br />
+                ・Docker < br />
+                ・AWS < br />
+                ・SQL < br />
+                ・GCP < br />
+                etc... < br />
+              </p>
+            </div>
+          </section>
+        </Grid>
+
+      </Grid>
+
     </Grid>
   )
 }
