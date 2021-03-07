@@ -67,42 +67,6 @@ code {
   0 10px 3px #000;
 }
 
-#top-view .my-name .neon  {
-  animation: blink linear infinite 2s;
-}
-
-#top-view .my-name .neon_2 {
-  animation: blink linear infinite 3s;
-}
-#top-view .my-name .neon_3 {
-  animation: blink linear infinite 4s;
-}
-
-#top-view .job {
-  clear:both;
-  color:#fff;
-  border:2px solid;
-  border-radius:3px;
-  text-align:center;
-  text-decoration:none;
-  display:block;
-  font-family:sans-serif;
-  font-size:14px;
-  width:40em;
-  padding:10px 10px;
-  font-weight:600;
-  position:absolute;
-  bottom:80px;
-  left:0;
-  right:0;
-  margin:0 auto;
-  background:rgba(0, 0, 0, 0.2);
-  box-shadow:0 0 0px 3px rgba(0, 0, 0, 0.2);
-  opacity:0.4
-}
-
-
-
 #top-view .card-parent {
   text-align: center;
 }
