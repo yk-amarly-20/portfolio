@@ -69,7 +69,6 @@ code {
 
 #top-view .my-name .neon  {
   animation: blink linear infinite 2s;
-  will-change: animation;
 }
 
 #top-view .my-name .neon_2 {
