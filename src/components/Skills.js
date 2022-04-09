@@ -60,7 +60,7 @@ export default function Skills() {
               </p>
               <h3 class="card-subtitle">Framework</h3>
               <p class="card-text">
-                Android Studio, Spring
+                Android Studio, Spring, Ktor
               </p>
             </div>
           </section>

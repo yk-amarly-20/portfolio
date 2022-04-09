@@ -45,11 +45,9 @@ export default function About() {
         <div className={classes.myText}>
           Welcome to my portfolio. My name is Yuto Kojima.
           <br /><br />
-          I am Kyoto University student, Faculty of Science.
+          I am Software Engineer, developing BE and FE (so-called, Full stack Engineer).
           <br /><br />
-          I belong to Department of Mathematics, and majoring probability theory.
-          <br /><br />
-          I am working at Rist as a machine learning engineer with Python.
+          I am working at Sansan Inc, as web Engineer.
           <br /><br />
           I love to write Rust and Kotlin, and develop Web Apps and tools.
           <br /><br />
@@ -58,9 +56,9 @@ export default function About() {
       </Grid>
       <Grid item>
         <div className={classes.myText}>
-          京都大学 理学部 数理科学系 確率論専攻
-           <br /><br />
-          機械学習エンジニア(株式会社Rist), 個人アプリ開発(Kotlin, Rust)
+          ソフトウェアエンジニア（フルスタック）、個人アプリ開発(Kotlin, Rust)
+          <br /><br />
+          京都大学 理学部 数理科学系 確率論専攻卒
           <br /><br />
           趣味 : 園芸、J-POPなどの音楽、テニス
           <br /><br />

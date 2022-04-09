@@ -43,8 +43,21 @@ export default function Works() {
           <Grid item>
             <section class="card-experience">
               <div class="card-content">
+                <h1 class="card-title">Sansan Inc.</h1>
+                <h3 class="span">2021/05~now</h3>
+                <p class="card-text">
+                  ・ working as full stack engineer. <br />
+                  ・ develop BE(Ktor/Kotlin),FE(React/TypeScript) <br />
+                  ・ design database and application architecture.<br />
+                </p>
+              </div>
+            </section>
+          </Grid>
+          <Grid item>
+            <section class="card-experience">
+              <div class="card-content">
                 <h1 class="card-title">Rist Inc.</h1>
-                <h3 class="span">2019/08~now</h3>
+                <h3 class="span">2019/08~2021/03</h3>
                 <p class="card-text">
                   ・ working as a machine learning engineer. <br />
                   ・ assign for data analysing task. <br />
@@ -71,9 +84,9 @@ export default function Works() {
                 <h1 class="card-title">Rakuten, Inc.</h1>
                 <h3 class="span">2020/09/01 ~ 2020/09/11</h3>
                 <p class="card-text">
-                   ・ Hackathon of Web Apps. <br />
-                   ・ I developed server-side. <br />
-                   ・ Our team got the second grades of seven teams. <br />
+                  ・ Hackathon of Web Apps. <br />
+                  ・ I developed server-side. <br />
+                  ・ Our team got the second grades of seven teams. <br />
                 </p>
               </div>
             </section>
