@@ -70,7 +70,7 @@ const Top = () => {
           <span>tf</span><span className="neon">o</span><span>lio</span>
         </div>
         <div className="job">
-          Software Engineer (last updated: 2022/04/09)
+          Software Engineer (last updated: 2025/04/10)
         </div>
       </div>
     </div>

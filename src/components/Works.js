@@ -40,11 +40,24 @@ export default function Works() {
           container
           direction="row"
           justify="center">
-          <Grid item>
+            <Grid item>
             <section class="card-experience">
               <div class="card-content">
                 <h1 class="card-title">Sansan Inc.</h1>
-                <h3 class="span">2021/05~now</h3>
+                <h3 class="span">2022/04~now</h3>
+                <p class="card-text">
+                  ・ develop BE(Ktor/Kotlin, TypeScript),FE(React/TypeScript) <br />
+                  ・ design database and application architecture.(ddd) <br />
+                  ・ develop and architect infra.<br />
+                </p>
+              </div>
+            </section>
+          </Grid>
+          <Grid item>
+            <section class="card-experience">
+              <div class="card-content">
+                <h1 class="card-title">Sansan Inc.(internship)</h1>
+                <h3 class="span">2021/05~2022/03</h3>
                 <p class="card-text">
                   ・ working as full stack engineer. <br />
                   ・ develop BE(Ktor/Kotlin),FE(React/TypeScript) <br />
@@ -152,6 +165,17 @@ export default function Works() {
                 <h1 class="card-title">Portfolio</h1>
                 <p class="card-text">
                   ・this site(React, JavaScript) <br />
+                </p>
+              </div>
+            </section>
+          </Grid>
+          <Grid item>
+            <section class="card-works">
+              <div class="card-content">
+                <h1 class="card-title">Tech Blog</h1>
+                <p class="card-text">
+                  ・Blog about tech.(Next, TypeScript) <br />
+                  ・ <a href='https://yk-amarly-20.github.io/MyBlog/'>https://yk-amarly-20.github.io/MyBlog/</a> <br />
                 </p>
               </div>
             </section>
